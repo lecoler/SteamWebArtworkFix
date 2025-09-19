@@ -20,7 +20,7 @@ Steam Web Artwork Black Border Fix/ Steam网页版艺术作品黑边图片修复
 
 ### 关于
 
-如果脚本对您有那么些小帮助的，麻烦帮忙点一下右上角的Star小星星  
+如果脚本对您有那么些小帮助的，麻烦到[github](https://github.com/lecoler/SteamWebArtworkFix)帮忙点一下右上角的Star小星星  
 本脚本仅在浏览器端运行，源码公开可见，仅做研究使用
 
 ### 反馈建议 
