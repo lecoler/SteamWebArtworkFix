@@ -3,6 +3,7 @@
 // @name:en      Steam Artwork Black Border Fix
 // @version      1.0
 // @description  Steam 艺术作品黑边图片修复
+// @description:en Steam Web Artwork Black Border Fix
 // @author       lecoler
 // @match        https://steamcommunity.com/id/*/images/*
 // @match        https://steamcommunity.com/profiles/*/images/*
