@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Steam艺术作品黑边图片修复
 // @name:en      Steam Artwork Black Border Fix
-// @version      1.0
+// @version      1.0.1
 // @description  Steam 艺术作品黑边图片修复
 // @description:en Steam Web Artwork Black Border Fix
 // @author       lecoler
+// @match        https://steamcommunity.com/id/*/images
 // @match        https://steamcommunity.com/id/*/images/*
+// @match        https://steamcommunity.com/profiles/*/images
 // @match        https://steamcommunity.com/profiles/*/images/*
 // @icon         https://steamcommunity.com/favicon.ico
 // @grant        none
