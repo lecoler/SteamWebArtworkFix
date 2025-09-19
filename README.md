@@ -6,7 +6,7 @@ Steam Web Artwork Black Border Fix/ Steam网页版艺术作品黑边图片修复
 
 ### 安装使用 
 
-[下载地址](https://greasyfork.org/zh-CN/scripts/)  
+[下载地址](https://greasyfork.org/zh-CN/scripts/550094)  
 
 #### 配合Tampermonkey食用最佳
 [Tampermonkey 插件下载](https://greasyfork.org/zh-CN)   
